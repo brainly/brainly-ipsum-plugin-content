@@ -1,10 +1,18 @@
 [
   {
-    "label": "Quality question long",
+    "label": "Quality question 1",
+    "body": "Butanol is composed of carbon, hydrogen, and oxygen. If 1.0 mol of butanol contains 6.0 x 1024 atoms of hydrogen, what is the subscript for the hydrogen atom in C4H2O?"
+  },
+  {
+    "label": "Quality answer 1",
+    "body": "The subscript for the hydrogen atom in butanol is 10. So, the chemical formula is C4H10O.\nAssume the subscript for Hydrogen is X,\nthen, the formula for butanol is C₄HₓO.\nGiven here,\nNumber of atoms in one mole of butanol = 6.0 × 10²⁴\n1 mole of Butanol contains 6.02 × 10²³\nThus\nX = (6.0 x 1024) / (6.02 x 1023)\nX = ~ 10\nTherefore, the subscript for the hydrogen atom in butanol is 10."
+  },
+  {
+    "label": "Quality question 2",
     "body": "Title:\nThe home for sale is listed at $150,000.00. They have $30,000.00 for a down payment and are qualified for a fixed-rate 30-year mortgage with an annual interest rate of 4.2%.\nDescription:\nThe rental home is currently $900.00 per month, with rent expected to increase approximately $75.00 every 4 years."
   },
   {
-    "label": "Quality question short",
-    "body": "Butanol is composed of carbon, hydrogen, and oxygen. If 1.0 mol of butanol contains 6.0 x 1024 atoms of hydrogen, what is the subscript for the hydrogen atom in C4H2O?"
+    "label": "Quality answer 2",
+    "body": "Answer:\n$809.32\nStep-by-step explanation:\nThe loan amount is 80% of $150,000, or $120,000. The monthly payment of principal and interest is $586.82.\nThe total annual expense for taxes and insurance is $1920 +750 = $2670, so the monthly expense is $2670/12 = $222.50.\nThen the total of payments for mortgage and escrow will be ...\n$586.82 +222.50 = $809.32\n__\nThe monthly P&I payment is given by ...\nA = P(i/12)/(1 -(1 +i/12)^(-12t)) . . . . . where i is the annual interest rate, t is the number of years, and P is the amount financed.\nA = $120,000(0.042/12)/(1 -(1 +0.042/12)^(-12·30)) ≈ $586.82\n__\n\nA spreadsheet or financial calculator can be useful for calculating payments, though the formula isn't difficult to use."
   }
 ]
