@@ -44,5 +44,113 @@
     "type": "image",
     "label": "Text attachment example",
     "url": "https://raw.githubusercontent.com/clxandstuff/content-reel/main/images/text-attachment.jpeg"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "dancefun1",
+    "body": "dancefun1"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "brian03styles",
+    "body": "brian03styles"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "maksiym",
+    "body": "maksiym"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "oakdefender",
+    "body": "oakdefender"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "Arenn",
+    "body": "Arenn"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "dizzzyy",
+    "body": "dizzzyy"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "lunarman33",
+    "body": "lunarman33"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "missnoname19",
+    "body": "missnoname19"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "dr4aco",
+    "body": "dr4aco"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "boatbecky",
+    "body": "boatbecky"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "professorchicken",
+    "body": "professorchicken"
+  },
+  {
+    "section": "Nickname",
+    "type": "text",
+    "label": "michelle81",
+    "body": "michelle81"
+  },
+  {
+    "section": "Mail",
+    "type": "text",
+    "label": "ryan.adamson@gmail.com",
+    "body": "ryan.adamson@gmail.com"
+  },
+  {
+    "section": "Mail",
+    "type": "text",
+    "label": "iziibritt@yahoo.co.uk",
+    "body": "iziibritt@yahoo.co.uk"
+  },
+  {
+    "section": "Mail",
+    "type": "text",
+    "label": "franrycc@icloud.com",
+    "body": "franrycc@icloud.com"
+  },
+  {
+    "section": "Mail",
+    "type": "text",
+    "label": "jodie.eshah2@gmail.com",
+    "body": "jodie.eshah2@gmail.com"
+  },
+  {
+    "section": "Mail",
+    "type": "text",
+    "label": "jessnotjess@icloud.com",
+    "body": "jessnotjess@icloud.com"
+  },
+  {
+    "section": "Mail",
+    "type": "text",
+    "label": "ghriniley@outlook.com",
+    "body": "ghriniley@outlook.com"
   }
 ]
